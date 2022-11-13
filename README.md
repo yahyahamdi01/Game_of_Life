@@ -27,8 +27,7 @@ Pas de dépendances particulières sauf une version de java récente (version 16
 ./gradlew run
 ```
 ### L'utilisation 
-L'interface est intuitive et simple d'utilisation. Pour plus de détails veuillez vous rapporter au rapport de projet en PDF.
-
+L'interface est intuitive et simple d'utilisation.
 
 
 ### Auteurs :
